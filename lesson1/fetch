@@ -1,1 +1,9 @@
 git fetch 
+
+
+fetch: get the HEAD version to repository; 
+
+git merge origin/master
+
+
+pull = fetch + merge;
